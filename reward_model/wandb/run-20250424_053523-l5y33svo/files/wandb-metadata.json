@@ -1,0 +1,393 @@
+{
+    "os": "Linux-6.8.0-57-generic-x86_64-with-glibc2.39",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-04-24T00:05:25.124955",
+    "startedAt": "2025-04-24T00:05:23.940543",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/users/student/pg/pg24/abhishek/trlx/examples/summarize_rlhf/reward_model/train_reward_model_gptj.py",
+    "codePath": "examples/summarize_rlhf/reward_model/train_reward_model_gptj.py",
+    "git": {
+        "remote": "https://github.com/CarperAI/trlx.git",
+        "commit": "3340c2f3a56d1d14fdd5f13ad575121fa26b6d92"
+    },
+    "email": null,
+    "root": "/users/student/pg/pg24/abhishek/trlx",
+    "host": "anandi-minds",
+    "username": "abhishek",
+    "executable": "/users/student/pg/pg24/abhishek/.conda/envs/rnd/bin/python",
+    "cpu_count": 32,
+    "cpu_count_logical": 64,
+    "cpu_freq": {
+        "current": 1284.2041562499999,
+        "min": 800.0,
+        "max": 4000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 768.726,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.105,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2224.342,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2505.605,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2411.966,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.14,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1399.081,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1032.13,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 799.858,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2496.617,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2187.895,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 4000.0,
+            "min": 800.0,
+            "max": 4000.0
+        }
+    ],
+    "disk": {
+        "total": 3516.772903442383,
+        "used": 49.20094680786133
+    },
+    "gpu": "NVIDIA L40S",
+    "gpu_count": 8,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        },
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        },
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        },
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        },
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        },
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        },
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        },
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        }
+    ],
+    "memory": {
+        "total": 503.57887268066406
+    }
+}
