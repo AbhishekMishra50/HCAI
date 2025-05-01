@@ -4,6 +4,7 @@
 
 ### File Structure
 - **HCI_Project_Report.pdf** - This is the document elaborating on the idea proposed. It is an official report with theoretical claims and empirical backing.
+- **HCI_Project_Report.zip** - This is the Latex Source code for the PDF.
 - **HCAI_CODE_FOLDER** - This folder contains the code files and instructions to run and re-create the code
 - **Results** - This the folder containing all the visual results.
 
